@@ -1,0 +1,9 @@
+{
+  "name": "ecosystem",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "dev": "pnpm --filter ./packages/frontend dev",
+    "start:backend": "pnpm --filter ./packages/backend start"
+  }
+}
