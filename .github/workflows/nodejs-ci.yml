@@ -12,5 +12,8 @@ jobs:
           curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 
       - name: Run Rust tests
-        run: |
+        run:  Node CI workflow
+
           echo "No Rust tests yet" && exit 0
+           
+
