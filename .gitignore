@@ -10,3 +10,6 @@ npm-debug.log*
 
 # local editor
 .vscode/
+.env
+.config/solana/id.json
+backup-solana-keys/
