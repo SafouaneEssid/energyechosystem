@@ -1,16 +1,23 @@
-# energyechosystem
-p2p echosystem energy market 
-# Ecosystem — ELcoin Energy Marketplace
+# ELCOIN NFT + Token + Candy Machine Project
 
-A decentralized energy marketplace for tokenized electricity using ELcoin.
-Includes frontend, backend, smart contracts (Anchor on Solana), metering logic,
-and full infrastructure setup.
+This repository contains:
+- Solana token (SPL)
+- NFT metadata + assets
+- Candy Machine setup
+- Custom mint scripts (manual minting via SDK)
+- WSL/Ubuntu environment
 
-## Features
-- Solana SPL token (ELcoin)
-- Marketplace smart contracts
-- Wallet integration (Phantom)
-- Backend API (Node/NestJS)
-- React frontend
-- CI/CD with GitHub Actions
-- Terraform infrastructure
+## Structure
+- assets/ : NFT assets & collection files
+- mint.mjs : Candy Machine mint
+- mint-simple.mjs : Direct NFT mint
+- debug-mint.mjs : Diagnostics script
+
+## Security
+IMPORTANT:
+Your private keys are NOT stored in this repo.
+Your Solana keypair lives in:
+~/.config/solana/id.json
+
+Backup externally & encrypted only.
+
