@@ -1,0 +1,13 @@
+{
+  "assetItems": {
+    "0": {
+      "name": "ELCOIN",
+      "image": "0.png",
+      "json": "0.json",
+      "loaded": true,
+      "imageUri": "https://gateway.irys.xyz/B9UbDuqU4NBxvXaBZfPdHCKDBwpwVSnpiqE5HEWQiCPF",
+      "imageType": "image/png",
+      "jsonUri": "https://gateway.irys.xyz/7kdntX1p1EktfpW7jW9A7bxNK6E6b4z2c5M9XbRsxV2"
+    }
+  }
+}

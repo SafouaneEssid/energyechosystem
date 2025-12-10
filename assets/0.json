@@ -1,0 +1,26 @@
+{
+  "name": "ELCOIN",
+  "symbol": "ELC",
+  "description": "ELCOIN – Energy Liquidity Coin for the Solana Decentralized Energy Marketplace.",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.irys.xyz/B9UbDuqU4NBxvXaBZfPdHCKDBwpwVSnpiqE5HEWQiCPF",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Energy"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Marketplace Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.irys.xyz/B9UbDuqU4NBxvXaBZfPdHCKDBwpwVSnpiqE5HEWQiCPF",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

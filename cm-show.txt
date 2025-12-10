@@ -1,0 +1,4 @@
+ ›   Warning: cm show EyhEKHSgGToKkgGYJqb6vWzLXJSfXTudB2EQL9qF9qCA is not a 
+ ›   mplx command.
+ Did you mean toolbox storage balance? [2m(Y/n)[22m[46G
+[?25h ›   Error: Run mplx help cm for a list of available commands.

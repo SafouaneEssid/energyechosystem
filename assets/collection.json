@@ -1,0 +1,16 @@
+{
+  "name": "ELCoin Collection",
+  "symbol": "ELC",
+  "description": "Official ELCOIN NFT Collection",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.irys.xyz/De8E2D2kX65Q3YVbstD3md5tiNv4rTu9Hp4frob63B8a",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.irys.xyz/De8E2D2kX65Q3YVbstD3md5tiNv4rTu9Hp4frob63B8a",
+        "type": "image/png"
+      }
+    ]
+  }
+}
