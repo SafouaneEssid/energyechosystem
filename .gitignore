@@ -1,26 +1,12 @@
-# Node.js
-node_modules/
-dist/
-build/
-pnpm-lock.yaml
-package-lock.json
-yarn.lock
-
-# Environment files
+# Private env and backups
 .env
-.env.local
+secure-backup*.gpg
+backup-solana-keys/
 
-# Rust / Anchor
-target/
-
-# Logs
-npm-debug.log
-yarn-error.log
-
-# OS files
+# Node / dev / OS
+node_modules/
+npm-debug.log*
 .DS_Store
-Thumbs.db
 
-# Editors
+# local editor
 .vscode/
-.idea/
