@@ -1,0 +1,10 @@
+{
+  "token": "ELCoin",
+  "mint": "FoaFC7Qn8ZSDpvK5ojrHamuRuiwdwahXHa1bBhp2cups",
+  "decimals": 9,
+  "tiers": {
+    "basic": 100,
+    "pro": 1000,
+    "enterprise": 10000
+  }
+}
