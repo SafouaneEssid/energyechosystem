@@ -1,0 +1,14 @@
+{
+  "platform": "EnergyEcosystem",
+  "network": "solana-devnet",
+  "token": {
+    "symbol": "ELC",
+    "mint": "FoaFC7Qn8ZSDpvK5ojrHamuRuiwdwahXHa1bBhp2cups",
+    "decimals": 9
+  },
+  "features": {
+    "tokenAccess": true,
+    "nftIdentity": true,
+    "marketplace": false
+  }
+}
