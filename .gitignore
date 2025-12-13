@@ -1,15 +1,17 @@
-# Private env and backups
+token/
+# === Secrets / private ===
 .env
-secure-backup*.gpg
-backup-solana-keys/
-
-# Node / dev / OS
-node_modules/
-npm-debug.log*
-.DS_Store
-
-# local editor
-.vscode/
-.env
+.env.*
+*.key
+*.json.gpg
 .config/solana/id.json
 backup-solana-keys/
+secure-backup*.gpg
+
+# === Node / tooling ===
+node_modules/
+npm-debug.log*
+
+# === OS / editor ===
+.DS_Store
+.vscode/
